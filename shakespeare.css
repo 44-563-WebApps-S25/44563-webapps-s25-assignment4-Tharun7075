@@ -1,0 +1,26 @@
+
+.stage-direction{
+    background-color: black;
+    color: beige;
+    font-family: cursive;
+
+}
+.speech{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(12, 12, 12);
+
+}
+.viola{
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+
+}
+.Captain{
+    font-family: sans-serif;
+    color: chartreuse;
+
+}
+.stage-direction:hover{
+    background-color: aquamarine;
+    color: rebeccapurple;
+}
