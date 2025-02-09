@@ -24,3 +24,26 @@
     background-color: aquamarine;
     color: rebeccapurple;
 }
+.table1{
+    border: 2;
+    color: rgb(0, 255, 60);
+    text-align: center;
+    margin:30px ;
+    padding: 10px;
+}
+.table1 th{
+    border: 2;
+    color: rgb(226, 43, 171);
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    background-color: bisque;
+}
+.table1 tr{
+    border: 20px;
+    color: rgb(187, 108, 12);
+    text-align: center;
+    margin: 30px;
+    padding: 10px;
+    background-color: rgb(42, 171, 226);
+}
