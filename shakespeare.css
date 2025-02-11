@@ -70,3 +70,15 @@
 
 
 }
+
+.nav{
+    background-color: rgb(121, 215, 241);
+    color: crimson;
+    border: 20px;
+    justify-content: center;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    display: flex;
+    padding: 10px;
+}
